@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>${BUNDLE_IDENTIFIER}</string>
+				<string>com.pangu.ipa1</string>
 				<key>bundle-version</key>
-				<string>${APPLICATION_VERSION}</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>${DISPLAY_NAME}</string>
+				<string>Pangu</string>
 			</dict>
 		</dict>
 	</array>
